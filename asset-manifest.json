@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pokedux/static/css/main.2b88c73e.chunk.css",
+    "main.js": "/pokedux/static/js/main.ad19b92a.chunk.js",
+    "main.js.map": "/pokedux/static/js/main.ad19b92a.chunk.js.map",
+    "runtime-main.js": "/pokedux/static/js/runtime-main.cec0e3a4.js",
+    "runtime-main.js.map": "/pokedux/static/js/runtime-main.cec0e3a4.js.map",
+    "static/css/2.d89db30d.chunk.css": "/pokedux/static/css/2.d89db30d.chunk.css",
+    "static/js/2.e06b7935.chunk.js": "/pokedux/static/js/2.e06b7935.chunk.js",
+    "static/js/2.e06b7935.chunk.js.map": "/pokedux/static/js/2.e06b7935.chunk.js.map",
+    "index.html": "/pokedux/index.html",
+    "static/css/2.d89db30d.chunk.css.map": "/pokedux/static/css/2.d89db30d.chunk.css.map",
+    "static/css/main.2b88c73e.chunk.css.map": "/pokedux/static/css/main.2b88c73e.chunk.css.map",
+    "static/js/2.e06b7935.chunk.js.LICENSE.txt": "/pokedux/static/js/2.e06b7935.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/pokedux/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/logo_v4.dddb0207.svg": "/pokedux/static/media/logo_v4.dddb0207.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cec0e3a4.js",
+    "static/css/2.d89db30d.chunk.css",
+    "static/js/2.e06b7935.chunk.js",
+    "static/css/main.2b88c73e.chunk.css",
+    "static/js/main.ad19b92a.chunk.js"
+  ]
+}
