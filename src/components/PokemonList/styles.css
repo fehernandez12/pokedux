@@ -1,0 +1,16 @@
+.PokemonCard {
+    background-color: #f0fafb;
+    border-radius: 0.3rem;
+    padding: 1em;
+    margin: 0.1em;
+    box-shadow: 0.1em 0.2em 0.2em #999;
+}
+.PokemonCard-title {
+    text-align: center;
+    color: #999;
+}
+.PokemonCard-favorite {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

@@ -10,9 +10,6 @@ const Menu = () => {
           <Image size='small' src={logo} />
         </SemanticMenu.Item>
         <SemanticMenu.Item to='/'>Home</SemanticMenu.Item>
-        <SemanticMenu.Item to='/' position='right'>
-          Favorites
-        </SemanticMenu.Item>
       </Container>
     </SemanticMenu>
   );
