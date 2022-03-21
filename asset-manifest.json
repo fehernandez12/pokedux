@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokedux/static/css/main.2b88c73e.chunk.css",
-    "main.js": "/pokedux/static/js/main.41c7dc2d.chunk.js",
-    "main.js.map": "/pokedux/static/js/main.41c7dc2d.chunk.js.map",
+    "main.js": "/pokedux/static/js/main.a6ae4f5e.chunk.js",
+    "main.js.map": "/pokedux/static/js/main.a6ae4f5e.chunk.js.map",
     "runtime-main.js": "/pokedux/static/js/runtime-main.cec0e3a4.js",
     "runtime-main.js.map": "/pokedux/static/js/runtime-main.cec0e3a4.js.map",
     "static/css/2.d89db30d.chunk.css": "/pokedux/static/css/2.d89db30d.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d89db30d.chunk.css",
     "static/js/2.e06b7935.chunk.js",
     "static/css/main.2b88c73e.chunk.css",
-    "static/js/main.41c7dc2d.chunk.js"
+    "static/js/main.a6ae4f5e.chunk.js"
   ]
 }
