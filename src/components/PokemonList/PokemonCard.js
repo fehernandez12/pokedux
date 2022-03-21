@@ -76,10 +76,10 @@ const PokemonCard = ({ pokemon }) => {
           <Icon name="favorite" color={color} />
         </button>
         <Popup trigger={
-          <Image centered src={pokemon.sprites.versions['generation-vii']['ultra-sun-ultra-moon'].front_default} alt='Pokemon Front' />
+          <Image centered src={pokemon.sprites.other.home.front_default} alt='Pokemon Front' />
         }>
           <Popup.Content>
-            <Image centered src={pokemon.sprites.versions['generation-vii']['ultra-sun-ultra-moon'].front_shiny} alt='Shiny Front' />
+            <Image centered src={pokemon.sprites.other.home.front_shiny} alt='Shiny Front' />
           </Popup.Content>
         </Popup>
         <h3 className="PokemonCard-title">{capitalize(pokemon.name)}</h3>
